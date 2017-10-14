@@ -8,6 +8,7 @@ namespace ConsoleApp1 {
 	class Program {
 		static void Main(string[] args) {
 		//code was added in GitHub
+		//code was edited in GitHub
 		}
 	}
 }
